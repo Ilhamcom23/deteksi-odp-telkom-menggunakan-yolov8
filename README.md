@@ -10,16 +10,16 @@
 ## 📸 Tampilan Dashboard
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ilhamcom23/deteksi-odp-telkom-menggunakan-yolov8/main/6100481349090217301.jpg" width="800" alt="Dashboard Deteksi ODP">
-  <img src="https://raw.githubusercontent.com/Ilhamcom23/deteksi-odp-telkom-menggunakan-yolov8/main/6100481349090217301.jpg" width="800" alt="Dashboard Deteksi ODP">
+  <img src="https://raw.githubusercontent.com/Ilhamcom23/deteksi-odp-telkom-menggunakan-yolov8/main/image.png" width="800" alt="Dashboard Deteksi ODP">
+  <img src="https://raw.githubusercontent.com/Ilhamcom23/deteksi-odp-telkom-menggunakan-yolov8/main/image (1).png" width="800" alt="Dashboard Deteksi ODP">
 </p>
 
 
 ## 🖼️ Galeri Gambar Deteksi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ilhamcom23/deteksi-odp-telkom-menggunakan-yolov8/main/6100235483687357495.jpg" width="400" alt="Gambar Deteksi 1">
-  <img src="https://raw.githubusercontent.com/Ilhamcom23/deteksi-odp-telkom-menggunakan-yolov8/main/6100235483687357496.jpg" width="400" alt="Gambar Deteksi 2">
+  <img src="https://raw.githubusercontent.com/Ilhamcom23/deteksi-odp-telkom-menggunakan-yolov8/main/image (2).png" width="400" alt="Gambar Deteksi 1">
+     <img src="https://raw.githubusercontent.com/Ilhamcom23/deteksi-odp-telkom-menggunakan-yolov8/main/image (3).png" width="400" alt="Gambar Deteksi 2">
 </p>
 
 ---
