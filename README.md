@@ -11,9 +11,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ilhamcom23/deteksi-odp-telkom-menggunakan-yolov8/main/6100481349090217301.jpg" width="800" alt="Dashboard Deteksi ODP">
+  <img src="https://raw.githubusercontent.com/Ilhamcom23/deteksi-odp-telkom-menggunakan-yolov8/main/6100481349090217301.jpg" width="800" alt="Dashboard Deteksi ODP">
 </p>
 
----
 
 ## 🖼️ Galeri Gambar Deteksi
 
